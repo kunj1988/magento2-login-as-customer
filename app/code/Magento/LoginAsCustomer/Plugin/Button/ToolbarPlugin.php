@@ -7,7 +7,6 @@ declare(strict_types=1);
 
 namespace Magento\LoginAsCustomer\Plugin\Button;
 
-use \Magento\LoginAsCustomerAdvanced\Controller\Adminhtml\Order\Login as LoginController;
 use \Magento\Backend\Block\Widget\Button\Toolbar\Interceptor;
 use \Magento\Framework\View\Element\AbstractBlock;
 use \Magento\Backend\Block\Widget\Button\ButtonList;
